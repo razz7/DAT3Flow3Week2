@@ -1,0 +1,4 @@
+What is meant by the react term “Lifting State Up”?
+Where do you lift it up to?
+Which way does React recommend data to flow: From sibling to sibling, from bottom to top or from top to bottom?
+Lifting state up, involves a great deal of boilerplate code, what’s the benefit we get from doing “things” like this?

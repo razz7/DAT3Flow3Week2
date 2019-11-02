@@ -1,0 +1,7 @@
+In a Controlled Component React state is made the "Single source of truth", so how:
+Do we ensure that input controls like text, textarea or select always presents the value found in the components state?
+Do we ensure that a controls state, always matches the value found in an input control?
+What is the purpose of doing event.preventDefault() in an event handler?
+What would be the effect of NOT doing event.preventDefault in a submit handler
+Why don't we want to submit the traditional way, in a single page application?
+Explain in words what it takes to implement the "Controlled Component" pattern for a form
